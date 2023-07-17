@@ -9,6 +9,12 @@ The Silent Auction is a Python program that facilitates bidding and determines t
 - Determines the highest bidder at the end of the auction.
 - Provides a user-friendly command-line interface.
 
+## File Structure
+
+- silent_auction.py: The main program file for the Silent Auction.
+
+- art.py: File containing the ASCII art and visual elements for the program.
+
 ## How to Use
 
 1. Run the program using a Python interpreter.
