@@ -44,11 +44,11 @@ The winner is Sarah with a bid of $750.
 ## Customization
 You can modify the program to include additional functionalities, such as:
 
--Adding a time limit for bidding.
+- Adding a time limit for bidding.
 
--Implementing a graphical user interface (GUI) for a more interactive experience.
+- Implementing a graphical user interface (GUI) for a more interactive experience.
 
--Saving bid data to a file for record-keeping.
+- Saving bid data to a file for record-keeping.
 
 ## Acknowledgments
 This project is inspired by the #100DaysOfCode challenge by Angela Yu. Special thanks to the community for their support and contributions.
